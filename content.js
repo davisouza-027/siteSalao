@@ -22,7 +22,8 @@ window.SALON = {
     { image: "assets/cabelo-12.jpg", alt: "Cabelo longo com reflexos claros e ondas" },
     { image: "assets/cabelo-13.jpg", alt: "Corte curto escuro com acabamento elegante" },
     { image: "assets/cabelo-14.jpg", alt: "Cabelo castanho longo com ondas" },
-    { image: "assets/cabelo-15.jpg", alt: "Cabelo longo loiro acinzentado com ondas" }
+    { image: "assets/cabelo-15.jpg", alt: "Cabelo longo loiro acinzentado com ondas" },
+    { image: "assets/cabelo-16.jpg", alt: "Cabelo médio liso castanho com mechas vermelhas vibrantes" }
   ],
   categories: [
     { name: "Cabelos", note: "Cuidado e estilo para os seus fios.", services: [
